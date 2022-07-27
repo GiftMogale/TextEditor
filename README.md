@@ -1,4 +1,4 @@
-#This ia a TextEditorApp in React
+# This ia a TextEditorApp in React
 
 # Getting Started:
 
