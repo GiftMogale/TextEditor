@@ -1,6 +1,4 @@
-# This ia a TextEditorApp in React
-
-# Getting Started:
+#  TextEditorApp in React
 
 
 ## Available Scripts
